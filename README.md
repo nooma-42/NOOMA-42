@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning zero knowledge proof, blockchain.
 - 📫 How to reach me: paul.tc.yu@gmail.com;
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOMA-42&count_private=true&show_icons=true&theme=dark))](https://github.com/NOOMA-42)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOMA-42&count_private=true&show_icons=true&theme=dark))] 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOMA-42&hide=html,css&layout=compact)](https://github.com/NOOMA-42)
