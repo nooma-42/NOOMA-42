@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there, I'm nooma👋
 
 <!--
 **NOOMA-42/NOOMA-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paultsuchunyu/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/nooma4286)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nooma42)
+
+- 🌱 I’m currently learning zero knowledge proof, blockchain.
+- 📫 How to reach me: paul.tc.yu@gmail.com;
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thearyanag&count_private=true&show_icons=true&theme=dark))](https://github.com/NOOMA-42)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearyanag&hide=html,css&layout=compact)](https://github.com/NOOMA-42)
