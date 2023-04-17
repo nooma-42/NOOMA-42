@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nooma42)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@paultcyu)
 
-- 🔭 Working in SWFlab
+- 🔭 Incoming Blockchain Research Intern in Sudo Research Lab, SWFlab
 - 🌱 Learning zero knowledge proof, cryptography, and layer2
 - 📫 How to reach me: paul.tc.yu@gmail.com;
 - 😄 Pronouns: he/him
