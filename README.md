@@ -9,6 +9,8 @@
 - 🌱 Learning zero knowledge proof, cryptography, and layer2
 - 📫 How to reach me: paul.tc.yu@gmail.com;
 - 😄 Pronouns: he/him
+
+I'm a student pursuing my master's degree in computer science in National Taiwan University and an intern in blockchain research. I started out with economics background and explored data analysis and machine learning previously. During my undergraduate, I interned in global supply chain and implement internal digital transformation project. At the same time, I also worked part-time for music company on building categorizing model. After graduation, I worked full time as a IT consultant and implement enterprise data system. In late 2022, I took the cs251 and get to know zero knowledge proof. This has been my current focus. I expect to dive deeper into this field
 ---
 
 ### GitHub Stats
