@@ -9,7 +9,7 @@
 - 📫 How to reach me: paul.tc.yu@gmail.com;
 - 😄 Pronouns: he/him
 
-I'm a student pursuing my master's degree in computer science in National Taiwan University, in Sudo Research as blockchain researcher intern, and in Ethereum Foundation PSE team as an ecosystem development grantee (acceleration program coordination). 
+Paul is a student pursuing his master's degree in computer science at National Taiwan University, working in Sudo Research as a blockchain research intern, and in the Ethereum Foundation PSE team as an ecosystem development grantee (acceleration program coordination). He's knowledgeable in zero knowledge proofs and cryptography.
 
 ---
 
