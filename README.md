@@ -5,6 +5,7 @@
 
 - 🌱 Learning zero knowledge proof, cryptography, and layer2.
 - 📫 How to reach me: paul.tc.yu@gmail.com;
+- I write article as hobby as well, mostly on [medium](https://medium.com/@paultcyu).
 
 Paul is a student pursuing his master's degree in computer science at National Taiwan University, working in Sudo Research as a blockchain research intern, and in the Ethereum Foundation PSE team as an ecosystem development grantee (acceleration program coordination).
 
