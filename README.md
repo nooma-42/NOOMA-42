@@ -8,10 +8,3 @@
 - I write article as hobby as well, mostly on [medium](https://medium.com/@paultcyu).
 
 Paul is a student pursuing his master's degree in computer science at National Taiwan University, working in Sudo Research as a blockchain research intern, and in the Ethereum Foundation PSE team as an ecosystem development grantee (acceleration program coordination).
-
----
-### GitHub Stats
-
-![nooma's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOMA-42&count_private=true&show_icons=true&theme=dark) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOMA-42&hide=html,css&layout=compact)
