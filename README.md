@@ -7,4 +7,4 @@
 - 📫 How to reach me: paul.tc.yu@gmail.com;
 - I write article as hobby as well, mostly on [medium](https://medium.com/@paultcyu).
 
-Paul is a student pursuing his master's degree in computer science at National Taiwan University, working in Sudo Research as a blockchain research intern, and in Ethereum Foundation Privacy and Scaling team as an ecosystem development grantee to coordinate Acceleration Program.
+Paul is a student pursuing his master's degree in computer science at National Taiwan University, working in Sudo Research as a blockchain research intern, and in Ethereum Foundation Privacy and Scaling Exploration team as an ecosystem development grantee to coordinate Acceleration Program.
