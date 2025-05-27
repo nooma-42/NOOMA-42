@@ -3,8 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nooma42)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@paultcyu)
 
-- 🌱 Learning zero knowledge proof, cryptography, and layer2.
 - 📫 How to reach me: paul.tc.yu@gmail.com;
 - I write article as hobby as well, mostly on [medium](https://medium.com/@paultcyu).
 
-Paul is a student pursuing his master's degree in computer science at National Taiwan University, working in Sudo Research as a blockchain research intern, and in Ethereum Foundation Privacy and Scaling Exploration team as an ecosystem development grantee to coordinate Acceleration Program.
+Paul is a student pursuing final year in his master's degree in computer science at National Taiwan University, working in KryptoGo as a software engineer intern and SuDo Research as a blockchain research intern. Previously, I received zk grant by Ethereum Foundation to benchmark different lookup argument and coordinated Acceleration Program in Privacy and Scaling Exploration team. You may also find more detail in Linkedin.
