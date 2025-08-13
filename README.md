@@ -6,4 +6,4 @@
 - 📫 How to reach me: paul.tc.yu@gmail.com;
 - I write article as hobby as well, mostly on [medium](https://medium.com/@paultcyu).
 
-Paul is a software engineer at KryptoGo and graduated with master's degree in computer science at National Taiwan University. Previously, he worked at SuDo Research as a blockchain research intern received ZK Grant by Ethereum Foundation to benchmark different lookup arguments and coordinated Acceleration Program in Privacy and Scaling Exploration team. See more detail on Linkedin.
+Paul is a software engineer at KryptoGo and graduated with master's degree in computer science at National Taiwan University. Previously, he worked at SuDo Research as a blockchain research intern and received ZK Grant by Ethereum Foundation to benchmark different lookup arguments and coordinated Acceleration Program in Privacy and Scaling Exploration team. See more detail on Linkedin.
